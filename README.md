@@ -1,16 +1,18 @@
-## Hi there 👋
+ Hi, I'm Zainab 
+Aspiring Cloud Engineer | AWS | Cloud Computing
+B.Sc. Education (Chemistry) — University of Ilorin,Cloud Engineering & AWS  Hands-on AWS Projects   Continuously learning Cloud & DevOps
 
-<!--
-**Zainab004-source/Zainab004-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Skills
+ AWS: EC2, VPC, RDS, ALB, Lambda, API Gateway, DynamoDB
+Linux • Python • Git & GitHub • MySQL • Docker
 
-Here are some ideas to get you started:
+  Projects
+ Serverless Student Management API  
+ [Highly Available Web Application](https://github.com/Zainab004-source/highly-available-web-app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  Currently Open To
+I'm open to Cloud Engineering internships, graduate trainee opportunities, and entry-level roles where I can gain practical experience, improve my skills, and contribute to real-world projects.
+
+ Thanks for visiting my profile
+ [GitHub](https://github.com/Zainab004-source)
 -->
