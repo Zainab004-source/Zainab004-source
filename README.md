@@ -1,6 +1,6 @@
  Hi, I'm Zainab, 
 Aspiring Cloud Engineer | AWS | Cloud Computing,
-B.Sc. Education (Chemistry) — University of Ilorin,Cloud Engineering & AWS  Hands-on AWS Projects and Continuously learning Cloud & DevOps
+B.Sc. Education (Chemistry) — Cloud Engineering & AWS  Hands-on AWS Projects and Continuously learning Cloud & DevOps
 
   Skills:
  AWS, EC2, VPC, RDS, ALB, Lambda, API Gateway, DynamoDB
