@@ -7,8 +7,8 @@ B.Sc. Education (Chemistry) — Cloud Engineering & AWS  Hands-on AWS Projects a
 Linux • Python • Git & GitHub • MySQL • Docker.
 
   Projects:
- Serverless Student Management API and
- [Highly Available Web Application](https://github.com/Zainab004-source/highly-available-web-app).
+ Serverless Student Management API,
+ [Highly Available Web Application]and serverless rest api (https://github.com/Zainab004-source/highly-available-web-app).
 
 I'm open to Cloud Engineering internships, graduate trainee opportunities, and entry-level roles where I can gain practical experience, improve my skills, and contribute to real-world projects.
 
